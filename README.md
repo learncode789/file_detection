@@ -1,4 +1,5 @@
 # file_detection
 
 
-Will havem more information on it soon
+Will have more information on it soon.
+Stay tuned
